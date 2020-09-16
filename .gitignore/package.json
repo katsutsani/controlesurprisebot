@@ -1,0 +1,14 @@
+{
+  "name": "cs",
+  "version": "1.0.0",
+  "description": "bot CS",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "katsu",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
